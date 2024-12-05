@@ -1,0 +1,76 @@
+.total-bg {
+  background-image: linear-gradient(to right, #ffffff, #cffcf1);
+  height: 100%;
+  text-align: center;
+  padding-top: 40px;
+}
+.inner-card {
+  border-radius: 90px;
+  margin-top: 30px;
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: white;
+}
+.card {
+  margin-right: 30px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  width: 700px;
+}
+.grp {
+  display: flex;
+  flex-direction: row;
+}
+.card-1 {
+  display: flex;
+}
+.inner-card-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  height: 39px;
+  margin-right: 15px;
+}
+.start {
+  margin-right: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  display: flex;
+}
+.timer {
+  display: flex;
+}
+p {
+  font-weight: bold;
+  font-size: 20px;
+}
+.spcl {
+  padding: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color: #76cfe6;
+  border-radius: 4px;
+  margin: 20px;
+}
+.btn {
+  background-color: transparent;
+  font-weight: bold;
+  border-width: 0px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.time {
+  color: #00d9f5;
+}
